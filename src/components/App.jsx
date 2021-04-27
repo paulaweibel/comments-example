@@ -20,7 +20,7 @@ const postData = (url, data) => {
 
 const contentfulClient = createClient({
     space: process.env.REACT_APP_CONTENTFUL_SPACE_ID || 'bwwo7ktx7i5g',
-    accessToken: process.env.REACT_APP_CONTENTFUL_ACCESS_TOKEN || 'CFPAT-XsQA4bqn8ZG-vqFHOtQScxlkTms2DwXZhQ8tpOAVMoI',
+    accessToken: process.env.REACT_APP_CONTENTFUL_ACCESS_TOKEN || 'foURUU0Q7opq9_o-nYH4vAybvrDxcA6xbRYHU2i9n_0',
     host: process.env.REACT_APP_CONTENTFUL_HOST
 });
 
